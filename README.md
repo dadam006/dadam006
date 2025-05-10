@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dadam006
 - 👀 I’m interested in coding apps
-- 🌱 I’m currently learning JS, Vue, React
+- 🌱 I’m currently learning Python, JS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm planning to educate in IT university
 
